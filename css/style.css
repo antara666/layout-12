@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(180, 94, 94);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
+.menu{
+    background-color: rgb(208, 113, 113);
+    color: aliceblue;
+    text-align: center;
+    height: 80px;
+}
+.feature{
+    overflow: hidden;
+}
+.left_feature{
+    background-color: rgb(71, 2, 2);
+    color: aliceblue;
+    text-align: center;
+    height: 500px;
+    width: 15%;
+    float: left;
+}
+.right_feature{
+    background-color: rgb(241, 6, 6);
+    color: aliceblue;
+    text-align: center;
+    height: 500px;
+    width: 85%;
+    float: right;
+}
+.left_top{
+    background-color: rgb(243, 158, 158);
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+.left_bottom{
+    background-color: rgb(208, 113, 113);
+    color: aliceblue;
+    text-align: center;
+    height: 300px;
+}
+.right_top{
+    background-color: rgb(255, 137, 137);
+    color: aliceblue;
+    text-align: center;
+    height: 350px;
+}
+.right_bottom{
+    overflow: hidden;
+}
+.bottom_left{
+    background-color: rgb(229, 134, 134);
+    color: aliceblue;
+    text-align: center;
+    height: 150px;
+    width: 60%;
+    float: left;
+}
+.bottom_right{
+    background-color: rgb(227, 148, 148);
+    color: aliceblue;
+    text-align: center;
+    height: 150px;
+    width: 40%;
+    float: right;
+}
+footer{
+    background-color: rgb(180, 94, 94);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
